@@ -1,0 +1,4 @@
+D:\邓剡梁\家具生产\Win程序\CNCRemotew-V9.0\CNCRemotew-0124\CNCRemotew\bin\x86\Release\CNCRemotew.exe.config
+D:\邓剡梁\家具生产\Win程序\CNCRemotew-V9.0\CNCRemotew-0124\CNCRemotew\obj\x86\Release\CNCRemotew.BarcodePrinter.resources
+D:\邓剡梁\家具生产\Win程序\CNCRemotew-V9.0\CNCRemotew-0124\CNCRemotew\obj\x86\Release\CNCRemotew.Properties.Resources.resources
+D:\邓剡梁\家具生产\Win程序\CNCRemotew-V9.0\CNCRemotew-0124\CNCRemotew\obj\x86\Release\CNCRemotew.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\msi\Desktop\Pageage_printer.exe.config
+C:\Users\msi\Desktop\Pageage_printer.exe.manifest
+C:\Users\msi\Desktop\Pageage_printer.application
+C:\Users\msi\Desktop\Pageage_printer.exe
+C:\Users\msi\Desktop\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\Debug\Pageage_printer.BarcodePrinter.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\Debug\Pageage_printer.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\Debug\A.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\Debug\Pageage_printer.pdb

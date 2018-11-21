@@ -1,0 +1,13 @@
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Release\Pageage_printer.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Release\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Release\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Release\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Release\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Release\MySql.Data.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Release\Pageage_printer.BarcodePrinter.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Release\Pageage_printer.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Release\A.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Release\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Release\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Release\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Release\Pageage_printer.pdb

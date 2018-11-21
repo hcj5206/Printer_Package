@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pageage_printer" GeneratedClassName="RemoteCNC_config">
+  <Profiles />
+  <Settings>
+    <Setting Name="database_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.31.250</Value>
+    </Setting>
+    <Setting Name="database_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chk</Value>
+    </Setting>
+    <Setting Name="database_pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345678</Value>
+    </Setting>
+    <Setting Name="cnc" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="pakage1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="database_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hanhai_manufacture</Value>
+    </Setting>
+    <Setting Name="Factory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">瀚海</Value>
+    </Setting>
+    <Setting Name="sheet_cnc_task" Type="System.String" Scope="User">
+      <Value Profile="(Default)">work_cnc_task_list</Value>
+    </Setting>
+    <Setting Name="sheet_element" Type="System.String" Scope="User">
+      <Value Profile="(Default)">order_element_online</Value>
+    </Setting>
+    <Setting Name="sheet_contract" Type="System.String" Scope="User">
+      <Value Profile="(Default)">order_contract_internal</Value>
+    </Setting>
+    <Setting Name="name_printer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gprinter GP-9025T</Value>
+    </Setting>
+    <Setting Name="Print_Barcode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="pakage2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="choose_state" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

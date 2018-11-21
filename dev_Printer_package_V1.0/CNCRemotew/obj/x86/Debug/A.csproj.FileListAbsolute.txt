@@ -1,0 +1,168 @@
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.BarcodePrinter.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0727A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.BarcodePrinter.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0728A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.BarcodePrinter.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\obj\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\obj\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\bin\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\bin\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\bin\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\obj\x86\Debug\CNCRemotew.BarcodePrinter.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\obj\x86\Debug\CNCRemotew.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\obj\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0729A-HCJ-稳定\CNCRemotew\obj\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\bin\x86\Debug\CNCRemotew.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.BarcodePrinter.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ\CNCRemotew\obj\x86\Debug\CNCRemotew.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\obj\x86\Debug\Pageage_printer.BarcodePrinter.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\obj\x86\Debug\Pageage_printer.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\bin\x86\Debug\Pageage_printer.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\bin\x86\Debug\Pageage_printer.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\bin\x86\Debug\Pageage_printer.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\obj\x86\Debug\Pageage_printer.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\obj\x86\Debug\Pageage_printer.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\obj\x86\Debug\Pageage_printer.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0802A-HCJ - 副本\CNCRemotew\obj\x86\Debug\Pageage_printer.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.config
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.application
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.exe
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.pdb
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.BarcodePrinter.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.Properties.Resources.resources
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.exe.manifest
+C:\Users\hcj\Desktop\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.BarcodePrinter.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0804A-HCJ\CNCRemotew\obj\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\obj\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\obj\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\bin\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\bin\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\bin\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\obj\x86\Debug\Pageage_printer.BarcodePrinter.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\obj\x86\Debug\Pageage_printer.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\obj\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A-HCJ-测试\CNCRemotew\obj\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\obj\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\obj\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\bin\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\bin\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\bin\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\obj\x86\Debug\Pageage_printer.BarcodePrinter.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\obj\x86\Debug\Pageage_printer.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\obj\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\obj\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package0822A 版本2\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Debug\Pageage_printer.BarcodePrinter.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Debug\Pageage_printer.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1024A\CNCRemotew\obj\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\obj\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\obj\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\bin\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\bin\x86\Debug\Pageage_printer.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\bin\x86\Debug\Pageage_printer.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\bin\x86\Debug\Pageage_printer.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\bin\x86\Debug\MySql.Data.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\obj\x86\Debug\Pageage_printer.BarcodePrinter.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\obj\x86\Debug\Pageage_printer.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\obj\x86\Debug\A.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\obj\x86\Debug\Pageage_printer.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_pack\Printer_package1116A\CNCRemotew\obj\x86\Debug\Pageage_printer.application
